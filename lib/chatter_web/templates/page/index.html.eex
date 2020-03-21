@@ -1,0 +1,8 @@
+<h2>CHATTER BOX</h2>
+<div id="chat-box"></div>
+
+<form id="chat-form">
+  <input type="text" placeholder="What's yo name homie?" id="user-name"></input>
+  <textarea placeholder="What you tryna say?" id="user-msg"></textarea>
+  <button type="submit">SAY IT!</button>
+</form>
